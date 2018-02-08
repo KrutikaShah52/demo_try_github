@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+This is the first change i don in README.md. just try to understand github steps.
