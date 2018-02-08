@@ -1,0 +1,2 @@
+class DemoScaffold < ApplicationRecord
+end
